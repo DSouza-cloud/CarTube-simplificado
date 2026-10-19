@@ -1,0 +1,5 @@
+{
+  "name": "CarTube",
+  "description": "YouTube para a tela do carro: busca, playlists salvas e edição completa.",
+  "requestFramePermissions": []
+}
